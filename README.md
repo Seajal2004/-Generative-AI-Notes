@@ -1,5 +1,6 @@
 # Python Notes Repository (Personal Reference)
 
+
 ## Hello! 👋 I'm Seajal Gupta
 
 This is my personal collection of Python notes and exercises. It serves as a structured resource to revisit concepts, code snippets, and key topics efficiently during my learning journey.
